@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=big-jpg" alt="big-jpg" /></a> </p>
 
-- 🚧 Latest Project - [Up2Scale - 100% Free AI Image Upscaling](https://Up2Scale.me)
+- 🚧 Current Project - [Nevermore - 100% Free AI Companion](https://NeverMore.me)
+- 🏂 Latest Project - [Up2Paint - 100% Free AI Digital Home Makeovers](https://Up2Paint.me)
+- 🏌️ Complete Project - [Up2Scale - 100% Free AI Image Upscaling](https://Up2Scale.me)
 
 - 📫 How to reach me **rossfarrell7@gmail.com**
 
