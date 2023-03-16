@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="big-jpg" /> </p>
 
 
-- 🚧 Current Project - [You2Me - 100% Free AI Companion](https://You2Me.me)
-- 🏂 Latest Project - [Up2Paint - 100% Free AI Digital Home Makeovers](https://Up2Paint.me)
-- 🏌️ Complete Project - [Up2Scale - 100% Free AI Image Upscaling](https://Up2Scale.me)
+- 🚧 Current Project  - [You2Me   - OpenAI GPT Powered Companion](https://You2Me.me)
+- 🏂 Latest Project   - [Up2Paint - Diffusion Powered Digital Home Renovation](https://Up2Paint.me)
+- 🏌️ Complete Project - [Up2Scale - Diffusion Powered Lossless Image Upscaling](https://Up2Scale.me)
 
 - 📫 How to reach me **rossfarrell7@gmail.com**
 
