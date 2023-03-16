@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="big-jpg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=big-jpg" alt="big-jpg" /></a> </p>
 
 - 🚧 Current Project - [You2Me - 100% Free AI Companion](https://You2Me.me)
 - 🏂 Latest Project - [Up2Paint - 100% Free AI Digital Home Makeovers](https://Up2Paint.me)
