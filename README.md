@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=big-jpg&show_icons=true&locale=en&layout=compact" alt="big-jpg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=big-jpg&show_icons=true&locale=en" alt="big-jpg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=big-jpg&show_icons=true&locale=en&count_private=true" alt="big-jpg" /></p>
 
 <h2> Content I'm interested in on Daily Dev </h2>
 
