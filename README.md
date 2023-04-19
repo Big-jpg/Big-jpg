@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="big-jpg" /> </p>
 
 
-- 🚧 Current Project  - [You2Me   - OpenAI GPT Powered Companion](https://You2Me.me)
+- 🚧 Current Project  - [EclipseCheck   - API Routes, NextJS, Vercel Rapid Deployment](https://eclipsecheck.me)
 - 🏂 Latest Project   - [Up2Paint - Diffusion Powered Digital Home Renovation](https://Up2Paint.me)
 - 🏌️ Complete Project - [Up2Scale - Diffusion Powered Lossless Image Upscaling](https://Up2Scale.me)
 
