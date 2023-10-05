@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: '30 9 * * *'
+    - cron: '30 18 * * *'
+
+jobs:
+  test_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: every day
+        run: echo "This step will be run every day at 930 am and 630 pm"
