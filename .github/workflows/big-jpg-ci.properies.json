@@ -1,0 +1,13 @@
+{
+    "name": "Big Jpg Workflow",
+    "description": "Big Jpg CI starter workflow.",
+    "iconName": "undraw_drink_coffee_v3au",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
