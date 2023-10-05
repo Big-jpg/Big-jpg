@@ -1,3 +1,10 @@
+Test1
+
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+
+{{ formatTime .UpdatedAt }}
+
+
 <h1 align="center">Hi 👋, I'm Ross Farrell</h1>
 <h3 align="center">A Software Automation Consultant from Perth, Australia</h3>
 
