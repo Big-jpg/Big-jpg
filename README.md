@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ross Farrell</h1>
 <h3 align="center">A Software Automation Consultant from Perth, Australia</h3>
 
+[![Big Jpg CI](https://github.com/Big-jpg/Big-jpg/actions/workflows/big-jpg-ci.yml/badge.svg?event=push)](https://github.com/Big-jpg/Big-jpg/actions/workflows/big-jpg-ci.yml)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="big-jpg" /> </p>
 
 
