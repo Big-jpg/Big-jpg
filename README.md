@@ -1,7 +1,7 @@
 <h1 align="center">Ross Farrell</h1>
 
 <p align="center">
-  <strong>Data products · automation architecture · applied AI</strong><br />
+  <strong>Solution Architect · modern web · AI · data · systems</strong><br />
   Perth, Western Australia
 </p>
 
@@ -14,9 +14,9 @@
 
 ---
 
-I design systems that turn difficult data and operational complexity into products people can actually use.
+I design and build expressive, production-minded systems across **TypeScript, React, Next.js, cloud, AI, data, integration and identity**.
 
-My work sits across **data engineering, analytical products, workflow automation, cloud architecture and applied AI**. I am most interested in the complete path from messy source material to a dependable system: ingestion, modelling, orchestration, analysis, interface and explanation.
+The common thread is making complex things tangible. I am interested in the complete path from an ambiguous problem to a dependable product: architecture, data, implementation, interface and explanation.
 
 ## Currently building: Perth House Data
 
@@ -34,23 +34,45 @@ It turns a fragmented historical dataset into something ordinary people can sear
 
 **[Explore the live product →](https://perthhousedata.com)** &nbsp;&nbsp; **[Read the source →](https://github.com/Big-jpg/real-data-for-all)**
 
-## What I build
+## Selected work
 
-| Data products | Intelligent automation | Interactive systems |
+### GitHub Motion Graph
+
+[**GitHub Motion Graph**](https://github.com/Big-jpg/github-motion-graph) turns repository, commit, branch and pull-request activity into a force-directed visual system. It is designed as a modern full-stack application rather than a static visualisation.
+
+`Next.js 16` · `React Server Components` · `Edge and Node APIs` · `Neon Postgres` · `Drizzle ORM` · `Vercel`
+
+### Fabric Semantic Model Starter
+
+[**Fabric Semantic Model Starter**](https://github.com/Big-jpg/fabric-apps-react-webapp-starter) is a React and TypeScript foundation for Microsoft Fabric Apps. It uses live DAX metadata to turn a Power BI semantic model into an explorable interface rather than leaving it trapped behind specialist tooling.
+
+`React 19` · `TypeScript` · `Microsoft Fabric Apps` · `DAX metadata` · `Config-driven deployment`
+
+### ModelViz
+
+[**ModelViz**](https://github.com/Big-jpg/modelviz) is a browser-based architecture tool for inspecting Power BI and Microsoft Fabric semantic models—including tables, relationships, data-source modes and row-level security.
+
+`Next.js` · `TypeScript` · `Local TMDL parsing` · `Interactive architecture diagrams` · `Security inspection`
+
+**[Open ModelViz →](https://modelviz-alpha.vercel.app)**
+
+## The work, in three dimensions
+
+| Data and analytical products | Platform and automation architecture | Interactive systems |
 |---|---|---|
-| Analytical models and public-facing tools that make large or untidy datasets legible. | Durable workflows that connect documents, decisions, people and systems with clear operational boundaries. | Simulations and visual interfaces that make complex behaviour easier to see, test and understand. |
+| Models and public-facing tools that make large or untidy datasets trustworthy and legible. | Durable workflows that connect data, documents, decisions, identity and cloud services. | Visual interfaces and simulations that make complex behaviour easier to inspect and understand. |
 
 I work comfortably from architecture through implementation. That usually means **TypeScript, Python and SQL**, modern web application patterns, Postgres and analytical databases, Microsoft Fabric and Azure, Vercel, serverless orchestration, and carefully scoped use of language models.
 
 The technology matters, but the standard I care about is simpler: **is the result trustworthy, explainable and useful?**
 
-## Selected work
+## Research and experiments
 
 - [**Convergent**](https://github.com/Big-jpg/convergent) — A sandbox for multi-agent reasoning, coordination and emergent system behaviour.
-- [**Recupare**](https://github.com/Big-jpg/recupare) — Invoice intelligence and automated document workflows built across Azure and Next.js.
 - [**OrbitMe**](https://github.com/Big-jpg/orbitme) — A Newtonian orbital simulator for spatial computing, inspired by *The Expanse*.
 - [**next-boids-text**](https://github.com/Big-jpg/next-boids-text) — Generative typography driven by flocking behaviour and real-time interaction.
 - [**Pixel-to-Voxel Projector**](https://github.com/Big-jpg/Pixeltovoxelprojector) — An experimental image-to-spatial reconstruction pipeline.
+- [**Recupare**](https://github.com/Big-jpg/recupare) — Secure invoice intelligence using Azure Content Understanding, isolated user data and structured extraction workflows.
 
 ## How I approach the work
 
