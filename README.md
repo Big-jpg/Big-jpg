@@ -1,75 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ross Farrell</h1>
-<h3 align="center">Software & Data Automation Architect | Perth, Australia</h3>
+<h1 align="center">Ross Farrell</h1>
 
 <p align="center">
-  <a href="https://github.com/Big-jpg/Big-jpg/actions/workflows/big-jpg-ci.yml">
-    <img src="https://github.com/Big-jpg/Big-jpg/actions/workflows/big-jpg-ci.yml/badge.svg?event=push" alt="Big Jpg CI" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=big-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>Data products · automation architecture · applied AI</strong><br />
+  Perth, Western Australia
+</p>
+
+<p align="center">
+  <a href="https://hypecoding.dev">Portfolio</a> ·
+  <a href="https://perthhousedata.com">Perth House Data</a> ·
+  <a href="https://linkedin.com/in/rossfarrellvirtualengineer">LinkedIn</a> ·
+  <a href="mailto:rossfarrell7@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 Current Projects
+I design systems that turn difficult data and operational complexity into products people can actually use.
 
-- 🧠 [**Convergent**](https://github.com/Big-jpg/convergent) — Multi-agent reasoning sandbox using `ai-sdk` and emergent behavior systems  
-- 🐦 [**next-boids-text**](https://github.com/Big-jpg/next-boids-text) — Generative text-flocking visualization in Next.js 15  
-- 🪐 [**OrbitMe**](https://github.com/Big-jpg/orbitme) — Newtonian orbital simulator for Quest 3 inspired by *The Expanse*  
-- 🧩 [**NeuralNet**](https://github.com/Big-jpg/NeuralNet) — Visual neural computation and network propagation experiments  
-- 🧊 [**Pixel-to-Voxel Projector**](https://github.com/Big-jpg/Pixeltovoxelprojector) — 2D-to-3D projection pipeline for image-based spatial reconstruction  
-- 📄 [**Recupare**](https://github.com/Big-jpg/recupare) — Azure + Next.js SaaS for invoice intelligence and automated document workflows  
+My work sits across **data engineering, analytical products, workflow automation, cloud architecture and applied AI**. I am most interested in the complete path from messy source material to a dependable system: ingestion, modelling, orchestration, analysis, interface and explanation.
+
+## Currently building: Perth House Data
+
+[**Perth House Data**](https://perthhousedata.com) is a free, public analytical product built from three decades of Perth house-sale records.
+
+It turns a fragmented historical dataset into something ordinary people can search, understand, compare and download—without hiding the underlying evidence behind a subscription or valuation funnel.
+
+| | |
+|---|---|
+| **Coverage** | 30 years · 330 suburbs · 281k+ recorded house sales |
+| **Data path** | Source CSV → immutable raw archive → canonical property model → cleaned facts → analytical curation |
+| **Platform** | Next.js · Vercel Workflows and Blob · Neon Postgres · MotherDuck |
+| **Analysis** | Rolling medians · annual movement · sales velocity · land/value relationships · bedroom cohorts |
+| **Output** | Public suburb explorer · downloadable CSV · reusable visual snapshots |
+
+**[Explore the live product →](https://perthhousedata.com)** &nbsp;&nbsp; **[Read the source →](https://github.com/Big-jpg/real-data-for-all)**
+
+## What I build
+
+| Data products | Intelligent automation | Interactive systems |
+|---|---|---|
+| Analytical models and public-facing tools that make large or untidy datasets legible. | Durable workflows that connect documents, decisions, people and systems with clear operational boundaries. | Simulations and visual interfaces that make complex behaviour easier to see, test and understand. |
+
+I work comfortably from architecture through implementation. That usually means **TypeScript, Python and SQL**, modern web application patterns, Postgres and analytical databases, Microsoft Fabric and Azure, Vercel, serverless orchestration, and carefully scoped use of language models.
+
+The technology matters, but the standard I care about is simpler: **is the result trustworthy, explainable and useful?**
+
+## Selected work
+
+- [**Convergent**](https://github.com/Big-jpg/convergent) — A sandbox for multi-agent reasoning, coordination and emergent system behaviour.
+- [**Recupare**](https://github.com/Big-jpg/recupare) — Invoice intelligence and automated document workflows built across Azure and Next.js.
+- [**OrbitMe**](https://github.com/Big-jpg/orbitme) — A Newtonian orbital simulator for spatial computing, inspired by *The Expanse*.
+- [**next-boids-text**](https://github.com/Big-jpg/next-boids-text) — Generative typography driven by flocking behaviour and real-time interaction.
+- [**Pixel-to-Voxel Projector**](https://github.com/Big-jpg/Pixeltovoxelprojector) — An experimental image-to-spatial reconstruction pipeline.
+
+## How I approach the work
+
+1. **Find the real shape of the problem.** Understand the source data, operational constraints and decisions the system must support.
+2. **Build a durable path through it.** Separate raw evidence, canonical identity, transformation and presentation so each layer can be tested and changed safely.
+3. **Make the result legible.** A technically correct system still fails if people cannot understand, trust or use it.
+
+## Let’s talk
+
+If you are working on a data-heavy product, an automation problem that has outgrown manual handling, or an ambitious prototype that needs a sound architecture, I would be glad to hear about it.
+
+**[hypecoding.dev](https://hypecoding.dev)** · **[LinkedIn](https://linkedin.com/in/rossfarrellvirtualengineer)** · **[rossfarrell7@gmail.com](mailto:rossfarrell7@gmail.com)**
 
 ---
 
-### 🧰 Languages & Tools
-
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch" /></a>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="Postgres" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="Vercel" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity" /></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL" /></a>
-  <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" alt="Zapier" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" /></a>
+<p align="center">
+  Building useful systems from difficult inputs.
 </p>
-
----
-
-### 💬 About Me
-
-I architect and build **scalable automation systems** — from **enterprise data platforms** to **AI-driven SaaS** — combining cloud-native infrastructure, orchestration, and human-centric design.  
-My focus is on **autonomous systems**, **AI reasoning frameworks**, and **next-gen data operations**.
-
-- 🧩 Experienced with: Microsoft Fabric, Azure Functions, Next.js 15, Neon Postgres  
-- 🧠 Exploring: Agentic reasoning, emergent behavior, motion synthesis  
-- 🧰 Languages: TypeScript, Python, SQL, C#, PowerShell  
-- 📫 Reach me: **rossfarrell7@gmail.com**
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/rossfarrellvirtualengineer" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 🧭 On Daily.dev
-
-<div align="left">
-  <a href="https://app.daily.dev/bigjpg">
-    <img src="https://api.daily.dev/devcards/dacdf0975faf4b2ab65ee17a35aa616c.png?r=a9j" width="300" alt="Ross Farrell's Dev Card"/>
-  </a>
-</div>
