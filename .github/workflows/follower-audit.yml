@@ -1,0 +1,40 @@
+name: Daily follower audit
+
+on:
+  schedule:
+    - cron: '37 1 * * *' # 09:37 Australia/Perth (UTC+08)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: follower-audit
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate follower audit
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_USER: Big-jpg
+        run: python3 scripts/follower_audit.py
+
+      - name: Publish summary
+        if: success()
+        run: cat follower-audit/README.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload follower audit
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: follower-audit-${{ github.run_id }}
+          path: follower-audit/
+          if-no-files-found: error
+          retention-days: 90
